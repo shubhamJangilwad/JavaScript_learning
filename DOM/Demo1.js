@@ -1,4 +1,4 @@
-// Methods fro selecting elements
+// Methods for selecting elements
 // getElementById - apply style using id
 let heading = document.getElementById("title")
 heading.style.color = "red";
